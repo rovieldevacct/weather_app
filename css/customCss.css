@@ -1,0 +1,11 @@
+.container {
+    width: 65%;
+}
+.containerContentHeader .col:last-child {
+    -moz-border-radius-topright: 15px !important;
+    border-top-right-radius: 15px !important;
+}
+.containerContentHeader .col:first-child {
+    -moz-border-radius-topleft: 15px !important;
+    border-top-left-radius: 15px !important;
+}
